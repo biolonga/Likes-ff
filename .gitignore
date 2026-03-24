@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Other development files
+.DS_Store
+Thumbs.db
+# Ignore coverage directory
+coverage/
